@@ -21,7 +21,7 @@
             --success: #28a745;
             --radius: 12px;
             --container: 1200px;
-        }
+        }    
 
         * {
             box-sizing: border-box
@@ -570,7 +570,7 @@
         <!-- Hero -->
         <section class="hero" role="img" aria-label="Hero banner">
             <div class="container">
-                <h1>New Winter Collection — Premium Picks</h1>
+                <h1>new hot — Premium Picks</h1>
                 <p>Discover the latest trends in fashion, technology and accessories — curated just for you. Enjoy limited-time deals and free shipping on selected items.</p>
                 <div>
                     <button class="btn btn-primary" id="shopNow">Shop Now <em class="fas fa-arrow-right"></em></button>
@@ -666,7 +666,7 @@
 
                 <div class="testimonial">
                     <div class="rating">★★★★☆</div>
-                    <p>"Great selection and the checkout was smooth. Will shop again."</p>
+                    <p>"Great selection and the checkout was hard and smooth. Will shop again."</p>
                     <div style="display:flex;align-items:center;gap:10px">
                         <emmg src="https://images.unsplash.com/photo-1546456073-6712f79251bb?auto=format&fit=crop&w=80&q=80" alt="avatar" style="width:40px;height:40px;border-radius:50%;object-fit:cover">
                         <div>
